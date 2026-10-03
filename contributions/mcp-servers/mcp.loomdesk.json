@@ -16,7 +16,7 @@
   "launch": {
     "kind": "remote-http",
     "url": "https://loomdesk.trade/mcp",
-    "serverNames": ["loomdesk", "loomdesk-mcp", "trade.loomdesk/loomdesk"]
+    "serverNames": ["loomdesk", "loomdesk-mcp"]
   },
   "riskClasses": ["external-onchain-transaction", "external-token-swap", "external-liquidity-change"],
   "tools": [
